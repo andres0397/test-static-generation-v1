@@ -1,0 +1,1 @@
+export { NoFavorites } from "./NoFavorites";
