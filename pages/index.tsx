@@ -50,7 +50,7 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
         name: pokemon.name,
         url: pokemon.url,
         id: i + 1,
-        img: `https:raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/${
+        img: `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/${
           i + 1
         }.svg`,
       };
