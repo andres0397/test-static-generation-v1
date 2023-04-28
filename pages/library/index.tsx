@@ -32,7 +32,7 @@ const LibraryPage = () => {
                   className="cursor-pointer w-full rounded-lg shadow-lg border-yellow-400 border-opacity-70 border-2 bg-black h-[200px] relative"
                 >
                   <Image
-                    src={`https:raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/${id}.svg`}
+                    src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/${id}.svg`}
                     alt="pokemon image"
                     fill
                     priority
